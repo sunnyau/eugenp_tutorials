@@ -4,6 +4,10 @@ https://www.baeldung.com/java-completablefuture-non-blocking
 
 We are mainly interested in `core-java-modules` 'core-java-concurrency-basic-3' directory.
 
+https://github.com/sunnyau/eugenp_tutorials/tree/master/core-java-modules/core-java-concurrency-basic-3
+
+[core-java-modules/core-java-concurrency-basic-3](core-java-modules/core-java-concurrency-basic-3)
+
 # Cloning the repository
 
 If you are getting an error while cloning the repository, try running:
